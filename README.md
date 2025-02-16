@@ -9,7 +9,7 @@ You can ask any question on this platform it is designed to provide accurate and
 
 # How to use 
 * Generate your Gemini API key from : https://ai.google.dev
-* Clone the project and set Environmental variable as GEMINI_API_KEY = YOUR GEMINI API KEY .
+* Clone the project and set Environmental variable in your IDE as GEMINI_API_KEY = YOUR GEMINI API KEY .
 * Run the backend and frontend in your localhost and enjoy.
 
 
