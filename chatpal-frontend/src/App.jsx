@@ -34,7 +34,7 @@ function App() {
       <div className="w-full flex flex-col">
         <div className="flex-1 flex flex-col items-center overflow-hidden">
           <h1 className="text-5xl pt-14 font-normal">Hi, Welcome to <span className='text-[#F5CB5C]'>ChatPal</span>.</h1>
-          <div className="w-full flex-1 overflow-y-auto pb-10 pt-16 px-20">
+          <div className="w-full flex-1 overflow-y-auto pb-10 mt-16 px-20">
 
             {loading ? <Loader /> : <ResponseComponent response={response} question={question} />}
           </div>
